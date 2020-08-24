@@ -1,0 +1,1 @@
+insert into trade(id,tradeId, version, counterParty,bookId, maturityDate,createdDate, status) values(1,'T5',4,'CP-1','BP-1',now()+1,now(),'Y');
